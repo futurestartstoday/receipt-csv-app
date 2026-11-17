@@ -1,0 +1,4 @@
+* text=auto
+# バッチファイルはCRLFでないと正しく動かない
+*.bat text eol=crlf
+*.onnx binary

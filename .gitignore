@@ -1,0 +1,14 @@
+# 個人のレシートなどはアップロードしない
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.heif
+*.csv
+
+# 依存パッケージ・OSのファイル
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini

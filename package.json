@@ -1,0 +1,9 @@
+{
+  "name": "receipt-csv",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "npx --yes serve@14.2.4 ."
+  }
+}
